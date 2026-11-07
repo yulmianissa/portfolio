@@ -203,16 +203,6 @@ function App() {
                 ориентацию на бизнес-результат.
               </p>
               <div className="hero-actions">
-                <a
-                  className="button button-light"
-                  href={`${import.meta.env.BASE_URL}resume.pdf`}
-                  download="Татьяна-Максименко-Литвак-Резюме.pdf"
-                >
-                  Скачать резюме
-                  <span className="download-icon" aria-hidden="true">
-                    ↓
-                  </span>
-                </a>
                 <a className="button button-outline" href="#experience">
                   Связаться <ArrowIcon />
                 </a>
