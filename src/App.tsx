@@ -137,7 +137,8 @@ const navigation = [
   { href: '#results', label: 'Результаты' },
   { href: '#cases', label: 'Кейсы' },
   { href: '#skills', label: 'Компетенции' },
-  { href: '#experience', label: 'Опыт и контакты' },
+  { href: '#experience', label: 'Опыт' },
+  { href: '#contacts', label: 'Контакты' },
 ]
 
 function ArrowIcon() {
@@ -203,7 +204,7 @@ function App() {
                 ориентацию на бизнес-результат.
               </p>
               <div className="hero-actions">
-                <a className="button button-outline" href="#experience">
+                <a className="button button-outline" href="#contacts">
                   Связаться <ArrowIcon />
                 </a>
               </div>
@@ -380,8 +381,22 @@ function App() {
         <section className="experience section-shell" id="experience">
           <div className="section-title-row">
             <div>
-              <SectionLabel number="06">ОПЫТ И КОНТАКТЫ</SectionLabel>
+              <SectionLabel number="06">ОПЫТ</SectionLabel>
               <h2>Senior Delivery Manager</h2>
+            </div>
+          </div>
+          <div className="experience-contact">
+            <span className="experience-years">10+ <span>лет</span></span>
+            <div className="experience-summary">
+              <h3>От инженерии и QA к delivery</h3>
+              <p>
+                Путь от инженера-проектировщика и QA до Team Lead и Delivery
+                Management.
+              </p>
+              <p className="experience-summary-context">
+                Технический опыт позволяет находить баланс между бизнес-целями,
+                техническими ограничениями и ресурсами команды.
+              </p>
             </div>
           </div>
           <div className="experience-history">
@@ -462,16 +477,16 @@ function App() {
               ))}
             </div>
           </div>
-          <div className="experience-contact">
-            <div className="experience-summary">
-              <span className="experience-years">10+ <span>лет</span></span>
-              <h3>От инженерии и QA к delivery</h3>
-              <p>
-                Путь от инженера-проектировщика и QA до Team Lead и Delivery
-                Management. Технический бэкграунд помогает учитывать риски,
-                инциденты и возможности команды при принятии решений.
-              </p>
+        </section>
+
+        <section className="contacts section-shell" id="contacts">
+          <div className="section-title-row">
+            <div>
+              <SectionLabel number="07">КОНТАКТЫ</SectionLabel>
+              <h2>Senior Delivery Manager</h2>
             </div>
+          </div>
+          <div className="contacts-panel">
             <div className="contact-list">
               <a
                 className="contact-row"
