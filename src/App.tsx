@@ -319,7 +319,7 @@ function App() {
         <section className="cases section-shell" id="cases">
           <div className="section-title-row">
             <div>
-              <SectionLabel number="04">КЕЙСЫ И ПРОЕКТЫ</SectionLabel>
+              <SectionLabel number="04">ПРОЕКТЫ И РЕЗУЛЬТАТЫ</SectionLabel>
               <h2>Работа, которая меняет процессы</h2>
             </div>
             <p className="section-intro">
