@@ -382,7 +382,7 @@ function App() {
           <div className="section-title-row">
             <div>
               <SectionLabel number="06">ОПЫТ</SectionLabel>
-              <h2>Senior Delivery Manager</h2>
+              <h2>От задач к результатам</h2>
             </div>
           </div>
           <div className="experience-contact">
@@ -483,7 +483,7 @@ function App() {
           <div className="section-title-row">
             <div>
               <SectionLabel number="07">КОНТАКТЫ</SectionLabel>
-              <h2>Senior Delivery Manager</h2>
+              <h2>Открыта к новым возможностям</h2>
             </div>
           </div>
           <div className="contacts-panel">
