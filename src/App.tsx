@@ -382,7 +382,7 @@ function App() {
           <div className="section-title-row">
             <div>
               <SectionLabel number="06">ОПЫТ</SectionLabel>
-              <h2>От задач к результатам</h2>
+              <h2>Опыт, который работает</h2>
             </div>
           </div>
           <div className="experience-contact">
