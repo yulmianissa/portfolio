@@ -1,4 +1,4 @@
-# Портфолио Senior Delivery Manager
+# Портфолио Delivery Manager
 
 Одностраничный сайт на React, TypeScript и Vite.
 

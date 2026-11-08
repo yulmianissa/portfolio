@@ -714,6 +714,23 @@ a:hover .arrow-icon {
   line-height: 1.7;
 }
 
+.role-period {
+  margin: 12px 0 -9px;
+  color: #858899;
+  font-family: var(--mono);
+  font-size: 8px;
+}
+
+.experience-position-secondary {
+  margin-top: 21px;
+  padding-top: 17px;
+  border-top: 1px solid var(--line);
+}
+
+.experience-position-secondary h3 {
+  margin-top: 0;
+}
+
 .experience-role ul {
   display: grid;
   gap: 8px;
