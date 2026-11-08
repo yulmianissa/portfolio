@@ -438,7 +438,7 @@ function App() {
             <article className="experience-role">
               <div className="role-topline">
                 <span>iiko</span>
-                <span>НОЯБРЬ 2025 — СЕНТЯБРЬ 2026</span>
+                <span>НОЯБРЬ 2024 — СЕНТЯБРЬ 2026</span>
               </div>
               <h3>Руководитель группы разработки</h3>
               <p className="role-summary">
@@ -495,9 +495,8 @@ function App() {
             <article className="experience-role">
               <div className="role-topline">
                 <span>ГАЗИНФОРМСЕРВИС</span>
-                <span>ИЮЛЬ 2017 — ОКТЯБРЬ 2025</span>
+                <span>ИЮЛЬ 2017 — ОКТЯБРЬ 2024</span>
               </div>
-              <p className="role-period">МАЙ 2024 — ОКТЯБРЬ 2025</p>
               <h3>Руководитель проектов</h3>
               <p className="role-summary">
                 Полный цикл проектов: от сбора требований и технического задания
